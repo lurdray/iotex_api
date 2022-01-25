@@ -1,2 +1,2 @@
-# iotex_api
-Python api that interacts with the iotex blockchain.
+# crypto_app
+create wallet, get balance, send crypto
